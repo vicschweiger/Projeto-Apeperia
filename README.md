@@ -1,2 +1,2 @@
-# Projeto Apeperia
- Projeto Apeperia proposto pelo curso de Layouts Resposivos da Alura
+# projeto-apeperia
+Arquivos do projeto para a Apeperia
